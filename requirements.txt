@@ -1,0 +1,8 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+pydantic==2.8.2
+pandas==2.2.2
+PyYAML==6.0.2
+tenacity==9.0.0
+matplotlib==3.9.0
+tqdm==4.65.0

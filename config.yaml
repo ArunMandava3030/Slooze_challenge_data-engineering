@@ -1,0 +1,9 @@
+output_dir: data/processed
+raw_dir: data/raw
+limit_per_category: 150
+delay_min: 1.0
+delay_max: 2.0
+timeout_seconds: 15
+max_retries: 3
+save_raw_html: false
+output_basename: products
