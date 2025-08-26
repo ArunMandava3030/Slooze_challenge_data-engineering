@@ -183,5 +183,10 @@ Sample data:
 * Scalable: you can add new crawlers (e.g., Amazon, Flipkart) just by adding a new file in `src/`.
 
 ---
+![alt text](https://github.com/ArunMandava3030/Slooze_challenge_data-engineering/blob/d098ad31f3243eb33e297b89a0988532fd4ef51f/Screenshot%202025-08-26%20224137.png)
+
+
+![alt text](https://github.com/ArunMandava3030/Slooze_challenge_data-engineering/blob/d098ad31f3243eb33e297b89a0988532fd4ef51f/Screenshot%202025-08-26%20224208.png)
+
 
 
